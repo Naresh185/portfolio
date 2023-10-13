@@ -35,13 +35,16 @@ function AboutCard() {
               I can code in the programming languages like
               <i>
                 <b className="purple"> C, C++, Java, Javascript, Python and R. </b>
-              </i>
+              </i> and have completed 2 Azure 
+              <i>
+                <b className="purple"> (AZ-900, DP-900) </b>
+              </i> certificates               
               <br />
             <br />
             Additionally, I am currently pursuing <b><i className="purple"> Master's in Data Science from Daikin University (AUS) </i></b> as a part time course through online
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other things that I love to do!
           </p>
           <ul>
             <li className="about-activity">
