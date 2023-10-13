@@ -25,15 +25,15 @@ function Particle() {
             enable: true,
             outMode: "bounce",
             random: false,
-            speed: 1,
+            speed: 0.3,
             straight: false
           },
           number: {
             density: {
               enable: true,
-              value_area: 10000
+              value_area: 100 
             },
-            value: 100
+            value: 1
           },
           opacity: {
             value: 0.5
