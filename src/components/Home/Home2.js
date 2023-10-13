@@ -18,12 +18,25 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a Gamer🎮 and a Tech enthu👨‍💻. I have been in love with computers since I was a kid and that's what drew me and made me fall in love with programming.
-              <br />
-              <br />I can code in the programming languages like
+              Hello<span className="wave" role="img" aria-labelledby="wave">
+                  👋🏻
+                </span> , I am <span className="purple">Naresh Kumar M 😎 </span>
+              from <span className="purple"> Chennai, India.</span>
+              <br/>
+              <br/>
+              I am currently working as <b><i className="purple">Senior Product Engineer</i></b> in IBS software and I have 
               <i>
-                <b className="purple"> C, C++, Java, Javascript, Python and R. </b>
+                <b className="purple">
+                  {" "}
+                  Bachelor's degree in Engineering
+                </b>
               </i>
+              &nbsp; in ECE
+              <br />
+              <br/>
+              I am a Gamer <span className="wave" role="img" aria-labelledby="wave">
+              🎮
+                </span> and a Tech enthu👨‍💻. I have been in love with computers since I was a kid and that's what drew me and made me fall in love with programming.
               <br />
               <br />
               My field of Interest's are in &nbsp;
@@ -35,19 +48,7 @@ function Home2() {
                 </b>
               </i>
               <br />
-              <br />
-              I am currently working as an Senior Product Engineer with 
-              <i>
-                <b className="purple">
-                  {" "}
-                  3 years
-                </b>
-              </i>
-              &nbsp; of full time work experience and
-              <i>
-                <b className="purple"> 8 months </b>
-              </i>
-              of experience as an Intern
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -58,10 +59,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
+            <h1>CONNECT WITH <span className="purple">ME</span> ON</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a

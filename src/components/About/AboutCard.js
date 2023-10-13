@@ -8,13 +8,37 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hello👋 , I am <span className="purple">Naresh Kumar M 😎 </span>
-            from <span className="purple"> Chennai, India.</span>
-            <br/>
-            <br /> I am currently working as a <i className="purple">Senior Product Engineer</i> in IBS software
+          I have 
+              <i>
+                <b className="purple">
+                  {" "}
+                  3 years
+                </b>
+              </i>
+              &nbsp; of full time work experience (2 years in Cognizant and 1 year in IBS software) and
+              <i>
+                <b className="purple"> 8 months </b>
+              </i>
+              of experience as an Intern
+              <br />
+              <br />
+              I have completed my 
+              <i>
+                <b className="purple">
+                  {" "}
+                  Bachelor's of Engineering(B.E.)  in Electronics and Communication (ECE)
+                </b>
+              </i>
+              &nbsp; in St. Joseph's College of Engineer
+              <br />
+              <br />
+              I can code in the programming languages like
+              <i>
+                <b className="purple"> C, C++, Java, Javascript, Python and R. </b>
+              </i>
+              <br />
             <br />
-            <br />
-            Additionally, I am currently pursuing<i className="purple"> Master's in Data Science from Daikin University (AUS) </i> as a part time course on weekends through online
+            Additionally, I am currently pursuing <b><i className="purple"> Master's in Data Science from Daikin University (AUS) </i></b> as a part time course through online
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -30,7 +54,7 @@ function AboutCard() {
               <ImStarFull /> Star Gazing
             </li>
             <li className="about-activity">
-              <ImTv /> Watching Anime and Series
+              <ImTv /> Watching Series
             </li>
           </ul>
         </blockquote>
